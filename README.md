@@ -2,8 +2,10 @@
 
 # Information
 
-The object of the game is to avoid the incoming cars (red in colour) by moving left or right.
-The game is made with Swing using Java.
+A basic game made in Java using the Java Swing library.
+The objective of the game is to avoid the incoming cars (red) 
+by moving your car (yellow) left or right.
+
 
 # Controls
 N: Move left
