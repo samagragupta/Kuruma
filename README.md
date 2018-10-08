@@ -7,4 +7,5 @@ The game is made with Swing using Java.
 
 # Controls
 N: Move left
+
 M: Move right
