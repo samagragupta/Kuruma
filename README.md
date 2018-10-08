@@ -7,6 +7,7 @@ The game is made with Swing using Java.
 
 # Controls
 N: Move left
+
 M: Move right
 
 # Build and execute
@@ -14,3 +15,4 @@ M: Move right
 Build with `gradle build`
 
 Execute with `java -jar ./build/libs/Kuruma.jar`
+
