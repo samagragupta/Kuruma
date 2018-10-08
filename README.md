@@ -7,7 +7,6 @@ The game is made with Swing using Java.
 
 # Controls
 N: Move character left
-
 M: Move character right
 
 # Build and execute
